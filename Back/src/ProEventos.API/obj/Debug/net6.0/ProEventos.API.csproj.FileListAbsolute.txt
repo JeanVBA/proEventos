@@ -99,3 +99,13 @@ C:\Users\jeanv\Documents\Projetos\ProEventosAngular\Back\src\ProEventos.API\obj\
 C:\Users\jeanv\Documents\Projetos\ProEventosAngular\Back\src\ProEventos.API\obj\Debug\net6.0\ProEventos.API.pdb
 C:\Users\jeanv\Documents\Projetos\ProEventosAngular\Back\src\ProEventos.API\obj\Debug\net6.0\ProEventos.API.genruntimeconfig.cache
 C:\Users\jeanv\Documents\Projetos\ProEventosAngular\Back\src\ProEventos.API\obj\Debug\net6.0\ref\ProEventos.API.dll
+C:\Users\jeanv\Documents\Projetos\ProEventosAngular\Back\src\ProEventos.API\bin\Debug\net6.0\ProEventos.Application.dll
+C:\Users\jeanv\Documents\Projetos\ProEventosAngular\Back\src\ProEventos.API\bin\Debug\net6.0\ProEventos.Domain.dll
+C:\Users\jeanv\Documents\Projetos\ProEventosAngular\Back\src\ProEventos.API\bin\Debug\net6.0\ProEventos.Persistence.dll
+C:\Users\jeanv\Documents\Projetos\ProEventosAngular\Back\src\ProEventos.API\bin\Debug\net6.0\ProEventos.Application.pdb
+C:\Users\jeanv\Documents\Projetos\ProEventosAngular\Back\src\ProEventos.API\bin\Debug\net6.0\ProEventos.Domain.pdb
+C:\Users\jeanv\Documents\Projetos\ProEventosAngular\Back\src\ProEventos.API\bin\Debug\net6.0\ProEventos.Persistence.pdb
+C:\Users\jeanv\Documents\Projetos\ProEventosAngular\Back\src\ProEventos.API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\jeanv\Documents\Projetos\ProEventosAngular\Back\src\ProEventos.API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\jeanv\Documents\Projetos\ProEventosAngular\Back\src\ProEventos.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\jeanv\Documents\Projetos\ProEventosAngular\Back\src\ProEventos.API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
